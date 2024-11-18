@@ -1,0 +1,3 @@
+﻿  Lab_11.4.cpp
+C:\Users\MY\source\repos\Lab_11.4\Lab_11.4\Lab_11.4.cpp(52,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lab_11.4.vcxproj -> C:\Users\MY\source\repos\Lab_11.4\x64\Debug\Lab_11.4.exe
